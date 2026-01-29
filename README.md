@@ -63,6 +63,16 @@ The app uses the following state variables:
 
 ---
 
+
+📸 Screenshots
+
+<img width="1843" height="795" alt="Home" src="https://github.com/user-attachments/assets/fd0bd6b3-f9ea-4279-8baa-a7dc37de803f" />
+<img width="1270" height="720" alt="Result" src="https://github.com/user-attachments/assets/96b9855e-1162-450a-9c7a-5a32ea51d925" />
+<img width="1911" height="980" alt="Searching" src="https://github.com/user-attachments/assets/aca056e1-9814-4e46-bde4-eeecc9d1759e" />
+<img width="1443" height="676" alt="Error" src="https://github.com/user-attachments/assets/38259005-33c1-4e07-8947-14d7949d2bfd" />
+
+
+
 ## ▶️ How to Run the Project
 
 1. **Clone the repository:**
@@ -75,12 +85,6 @@ npm install
 npm run dev
 Open in browser: http://localhost:5173
 
-## 📸 Screenshots
-
-<img width="1843" height="795" alt="Home" src="https://github.com/user-attachments/assets/fd0bd6b3-f9ea-4279-8baa-a7dc37de803f" />
-<img width="1270" height="720" alt="Result" src="https://github.com/user-attachments/assets/96b9855e-1162-450a-9c7a-5a32ea51d925" />
-<img width="1911" height="980" alt="Searching" src="https://github.com/user-attachments/assets/aca056e1-9814-4e46-bde4-eeecc9d1759e" />
-<img width="1443" height="676" alt="Error" src="https://github.com/user-attachments/assets/38259005-33c1-4e07-8947-14d7949d2bfd" />
 
 
 
